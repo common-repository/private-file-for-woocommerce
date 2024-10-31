@@ -1,0 +1,1 @@
+<?php do_action( 'pffw_customer_area_content' ); ?>

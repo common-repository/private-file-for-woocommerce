@@ -1,0 +1,126 @@
+.metabox-row {
+	margin: 0.5em 0; 
+}
+
+span.label {
+	display: inline-block;
+	min-width: 33%;
+}
+
+/* -= SETTINGS PAGE */
+
+.pffw-main {
+	width: 69%;
+	float: left;
+	margin-top: 35px;
+}
+
+.pffw-side {
+	width: 29%;
+	float: right;
+	margin-top: 35px;
+}
+
+/* -= ADMIN MENU & ICONS */
+
+#toplevel_page_private-file-for-woocommerce .wp-menu-image {
+    background: url( 'images/ic_admin_menu.png' ) no-repeat 6px 7px !important;
+}
+#toplevel_page_private-file-for-woocommerce:hover .wp-menu-image {
+	background-position:6px -17px !important;
+}
+#toplevel_page_private-file-for-woocommerce.wp-has-current-submenu .wp-menu-image {
+	background-position:6px -39px !important;
+}
+
+#icon-private-file-for-woocommerce.icon32 {
+    background: url( 'images/ic_logo_32.png' ) no-repeat center !important;
+}
+
+#icon-private-file-for-woocommerce.icon32.icon32-posts-pffw_private_file {
+    background: url( 'images/ic_private_file_32.png' ) no-repeat center !important;
+}
+
+#icon-icon32-settings.icon32 {
+    background: url( 'images/ic_settings_32.png' ) no-repeat center !important;
+}
+
+#icon-private-file-for-woocommerce.icon32.icon32-posts-pffw_private_page {
+    background: url( 'images/ic_private_page_32.png' ) no-repeat center !important;
+}
+
+.dashboard-logo {
+	max-width: 80%;
+	margin: 0 auto 50px;
+}
+
+.dashboard-logo img {
+	max-width: 100%;
+	height: auto; 
+}
+
+/* -= SETTINGS SIDEBOXES */
+
+.pffw-sidebox {
+	border-bottom: 5px solid #eee;
+	margin-bottom: 20px;
+	
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box; 
+	        box-sizing: border-box;
+}
+
+.pffw-sidebox ul {
+	list-style: disc;
+	margin-left: 30px;
+}
+
+.pffw-sidebox h2.pffw-sidebox-title {
+	background: #eee;
+	padding: 10px 20px;
+	font-size: 18px;
+	line-height: 18px;
+}
+
+.pffw-sidebox div.pffw-sidebox-content {
+	background: #fafafa;
+	padding: 7px 20px;
+}
+
+.pffw-main .pffw-section-description {
+	padding: 5px 10px;
+}
+
+/* -= ADD-ONS TAB */
+
+.pffw-addon {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box; 
+	        box-sizing: border-box;
+	        
+	float: left;
+	width: 23%;
+	margin: 1%;
+	padding: 10px;
+	border: 1px solid #eee;
+	background: #fafafa;
+}
+
+.pffw-addon:hover {
+	background: #f0f0f0;
+}
+
+.pffw-addon img {
+	max-width: 100%;
+}
+
+.pffw-addon h2 {
+	text-align: center;
+	text-decoration: none;
+}
+
+/* -= INDIVIDUAL SETTINGS TAB ADJUSTMENTS */
+
+.pffw-settings-pffw_addons p.submit {
+	display: none;
+}

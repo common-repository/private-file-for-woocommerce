@@ -1,0 +1,604 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Private File For Woocommerce\n"
+"POT-Creation-Date: 2021-02-15 17:45+0100\n"
+"PO-Revision-Date: 2021-02-15 16:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: 4wp\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../private-file-for-woocommerce.php:96
+msgid "Private File For Woocommerce requires the WooCommerce"
+msgstr "Private File For Woocommerce richiede che sia installato WooCommerce. Provvedi ad installarlo o attivarlo."
+
+#: ../includes/settings.class.php:68 ../includes/settings.class.php:69
+#: ../includes/settings.class.php:82
+#: ../includes/settings-my-account-woocommerce.class.php:167
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../includes/settings.class.php:152
+msgid "General"
+msgstr "Generale"
+
+#: ../includes/settings.class.php:165
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: ../includes/core-addons/private-page/templates/private-page-after_post_content.template.php:2
+msgid "Back to private section"
+msgstr "Torna alla sezione privata della tua area"
+
+#: ../includes/settings.class.php:172
+msgid "Include CSS"
+msgstr "Includi CSS"
+
+#: ../includes/settings.class.php:179
+msgid "Include the default stylesheet."
+msgstr "Includi lo stile di default."
+
+#: ../includes/settings.class.php:181
+msgid "If not, you should style the plugin yourself in your theme."
+msgstr "Se non impostato, cattura lo stile del tuo tema."
+
+#: ../includes/settings.class.php:188
+msgid "Admin theme"
+msgstr "Tema lato admin"
+
+#: ../includes/settings.class.php:200
+msgid "Frontend theme"
+msgstr "Tema lato frontend"
+
+#: ../includes/settings.class.php:313
+msgid " cannot be empty"
+msgstr "non può essere vuoto"
+
+#: ../includes/settings.class.php:331
+msgid " is not a valid email"
+msgstr "non è una email valida"
+
+#: ../includes/settings.class.php:348
+msgid " is not a valid value"
+msgstr "non è un valore valido"
+
+#: ../includes/settings.class.php:370
+msgid "must be an integer"
+msgstr ""
+
+#: ../includes/settings.class.php:379
+#, php-format
+msgid "must be greater than %s"
+msgstr ""
+
+#: ../includes/settings.class.php:388
+#, php-format
+msgid "must be lower than %s"
+msgstr ""
+
+#: ../includes/settings.class.php:435
+msgid "d/m/Y"
+msgstr "d/m/Y"
+
+#: ../includes/settings.class.php:549
+msgid "Main plugin folder"
+msgstr "Cartella Plugin"
+
+#: ../includes/settings.class.php:554
+msgid "Current theme folder"
+msgstr "Cartella corrente del tema"
+
+#: ../includes/settings.class.php:559
+msgid "WordPress content folder"
+msgstr "Cartella di WordPress"
+
+#: ../includes/core-addons/admin-area/admin-area-addon.class.php:48
+msgid "Administration Area"
+msgstr "Area di amministrazione"
+
+#: ../includes/core-addons/admin-area/admin-area-addon.class.php:50
+msgid "View the menu"
+msgstr "Vedi il menu"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:139
+#: ../includes/core-addons/private-page/private-page-addon.class.php:154
+#: ../includes/core-addons/private-page/private-page-addon.class.php:165
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:133
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:135
+msgid "Private Pages"
+msgstr "Pagine Private"
+
+#: ../includes/core-addons/private-page/private-page-addon-addon.class.php:141
+msgid "Create/Edit/Delete pages"
+msgstr "Crea/Modifica/Cancella Pagine Private"
+
+#: ../includes/core-addons/private-page/private-page-addon-addon.class.php:142
+msgid "Access pages"
+msgstr "Accesso alle pagine private"
+
+#: ../includes/core-addons/admin-area/admin-area-addon.class.php:63
+#: ../includes/core-addons/admin-area/admin-area-addon.class.php:64
+#: ../includes/core-addons/admin-area/templates/private-file-for-woocommerce-dashboard.template.php:31
+msgid "Customer Area"
+msgstr "Area clienti"
+
+#: ../includes/core-addons/capabilities/capabilities-admin-interface.class.php:41
+msgid "Capabilities"
+msgstr "Ruoli"
+
+#: ../includes/core-addons/help/help-addon.class.php:49
+#: ../includes/core-addons/help/help-addon.class.php:58
+#: ../includes/settings-my-account-woocommerce.class.php:114
+msgid "Shared Page"
+msgstr "Pagina Condivisa"
+
+#: ../includes/core-addons/help/help-addon.class.php:71
+#: ../includes/core-addons/help/help-addon.class.php:81
+msgid "Enhance your private file for woocommerce"
+msgstr "Riguardo a questo plugin"
+
+#: ../includes/core-addons/help/help-addon.class.php:73
+#: ../includes/core-addons/help/help-addon.class.php:90
+msgid "Get more from 4wp"
+msgstr "Info su 4wp"
+
+#: ../includes/core-addons/help/help-addon.class.php:104
+msgid "&laquo Private File For Woocommerce &raquo; is a very modular plugin. We have built it so that it can be extended in many ways. You can also view all plugin for you by clicking the link below."
+msgstr "&laquo Private File For Woocommerce &raquo; è un fork modificato di wp customer area versione 1.6 .Se ti piacciono i nostri plugin ti invito a visitare il mio sito web. Grazie."
+
+#: ../includes/core-addons/help/help-addon.class.php:109
+msgid "Browse all plugin"
+msgstr "Scopri i nostri plugin"
+
+#: ../includes/core-addons/help/help-addon.class.php:127
+#, php-format
+msgid "If you like our plugins, you might want to <a href=\"%s\">check our website</a> for more."
+msgstr "Se ti piace il nostro plugin, visita <a href=\"%s\">il nostro sito web </a> per altri plugin."
+
+#: ../includes/core-addons/help/help-addon.class.php:130
+msgid "If you want to get updates about our plugins, you can:"
+msgstr "Se vuoi ricevere aggiornamenti sui nostri plugin:"
+
+#: ../includes/core-addons/help/help-addon.class.php:132
+msgid "Follow us on Twitter"
+msgstr "Seguici su Twitter"
+
+#: ../includes/core-addons/help/help-addon.class.php:135
+msgid "Follow us on Google+"
+msgstr "Seguici su Google+"
+
+#: ../includes/core-addons/help/help-addon.class.php:138
+msgid "Follow us on Facebook"
+msgstr "Seguici su Facebook"
+
+#: ../includes/core-addons/help/templates/list-addons.template.php:6
+msgid "Enhance your customer area with our add-ons"
+msgstr "Riguardo a Private file for woocommerce"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:207
+msgid "You are not authorized to view this file"
+msgstr "Non sei autorizzato a visualizzare questo file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:239
+#: ../includes/core-addons/private-file/private-file-addon.class.php:244
+msgid "You are not authorized to access this file"
+msgstr "Non sei autorizzato ad accedere a questo file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:380
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:59
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:60
+msgid "Private Files"
+msgstr "File Privati"
+
+msgid "Create/Edit/Delete files"
+msgstr "Crea/Modifica/Cancella file privati"
+
+msgid "Access files"
+msgstr "Accesso ai file privati"
+
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:531
+msgid "General settings"
+msgstr "Impostazioni Generali"
+
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:545
+msgid "Enable pages"
+msgstr "Abilita pagine"
+
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:561
+msgid "Check this to enable the private pages add-on."
+msgstr "Inserisci il flag per abilitare le pagine private."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:435
+msgid "Enable add-on"
+msgstr "Abilita file"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:443
+msgid "Check this to enable the private files add-on."
+msgstr "Inserisci il flag per abilitare i file privati."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:448
+msgid "Frontend Integration"
+msgstr "Integrazione in Frontend"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:463
+msgid "Show the view and download links below the post content for a customer file."
+msgstr "Mostra i link di download sotto il contenuto del post per un file cliente."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:479
+msgid "You can choose how files will be organized by default in the customer area."
+msgstr "Puoi scegliere come verranno organizzati i file per impostazione predefinita nell'area clienti."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:485
+msgid "Empty categories"
+msgstr "Categorie Vuote"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:493
+msgid "When listing files by category, empty categories will be hidden if you check this."
+msgstr "Quando si elencano i file per categoria, le categorie vuote verranno nascoste se si seleziona questa opzione."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:499
+msgid " File Storage"
+msgstr "Archiviazione dei file"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:564
+msgid "The files will be stored in the following directory: <code>%s</code>."
+msgstr "I file verranno archiviati nella seguente directory: <code>%s</code>."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:569
+msgid "Each user has his own sub-directory. For instance, yours is: <code>%s</code>."
+msgstr "Sottodirectory di protezione generata è: <code>%s</code>."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:575
+msgid "That directory should at least have the permissions set to 750. Currently it is %s. You should adjust that directory permissions as upload or download might not work properly."
+msgstr "La directory deve avere i permessi impostati su 750. Attualmente è %s. Nel caso non sia 750, è necessario modificare le autorizzazioni della directory poiché il caricamento o il download potrebbero non funzionare correttamente."
+
+#: ../includes/settings-my-account-woocommerce.class.php:32
+msgid "Private"
+msgstr "Sez. Privata"
+
+#: ../includes/settings-my-account-woocommerce.class.php:58
+msgid "Shared"
+msgstr "Sez. Condivisa"
+
+#: ../includes/settings-my-account-woocommerce.class.php:132
+msgid "Shared Page with all customers in my account"
+msgstr "Pagina condivisa con tutti i clienti nell'account woocommerce"
+
+#: ../includes/settings-my-account-woocommerce.class.php:159
+msgid "Check this to enable shared page add-on."
+msgstr "Inserisci il flag per abilitare la pagina condivisa."
+
+#: ../includes/settings-my-account-woocommerce.class.php:168
+msgid "Enable Shared Page"
+msgstr "Abilita pagina condivisa."
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:395
+#: ../includes/core-addons/private-file/private-file-addon.class.php:406
+msgctxt "pffw_private_file"
+msgid "Private Files"
+msgstr "File Privati"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:396
+msgctxt "pffw_private_file"
+msgid "Private File"
+msgstr "File Privato"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:397
+msgctxt "pffw_private_file"
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:398
+msgctxt "pffw_private_file"
+msgid "Add New Private File"
+msgstr "Aggiungi un nuovo file privato"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:399
+msgctxt "pffw_private_file"
+msgid "Edit Private File"
+msgstr "Modifica file privato"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:400
+msgctxt "pffw_private_file"
+msgid "New Private File"
+msgstr "Nuovo File Privato"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:401
+msgctxt "pffw_private_file"
+msgid "View Private File"
+msgstr "Vedi File Privato"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:402
+msgctxt "pffw_private_file"
+msgid "Search Private Files"
+msgstr "Cerca File Privati"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:403
+msgctxt "pffw_private_file"
+msgid "No private files found"
+msgstr "Non ci sono file privati"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:404
+msgctxt "pffw_private_file"
+msgid "No private files found in Trash"
+msgstr "Non ci sono file privati nel cestino"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:405
+msgctxt "pffw_private_file"
+msgid "Parent Private File:"
+msgstr "Parent Private File:"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:438
+#: ../includes/core-addons/private-file/private-file-addon.class.php:454
+msgctxt "pffw_private_file_category"
+msgid "File Categories"
+msgstr "Categorie File"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:439
+msgctxt "pffw_private_file_category"
+msgid "File Category"
+msgstr "Categorie file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:440
+msgctxt "pffw_private_file_category"
+msgid "Search File Categories"
+msgstr "Cerca file per categoria"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:441
+msgctxt "pffw_private_file_category"
+msgid "Popular File Categories"
+msgstr "Categoria file più popolari"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:442
+msgctxt "pffw_private_file_category"
+msgid "All File Categories"
+msgstr "Tutte le categorie di file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:443
+msgctxt "pffw_private_file_category"
+msgid "Parent File Category"
+msgstr "Parent File Category"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:444
+msgctxt "pffw_private_file_category"
+msgid "Parent File Category:"
+msgstr "Parent File Category:"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:445
+msgctxt "pffw_private_file_category"
+msgid "Edit File Category"
+msgstr "Modifica Categoria File"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:446
+msgctxt "pffw_private_file_category"
+msgid "Update File Category"
+msgstr "Aggiorna Categoria File"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:447
+msgctxt "pffw_private_file_category"
+msgid "Add New File Category"
+msgstr "Aggiungi nuova categoria file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:448
+msgctxt "pffw_private_file_category"
+msgid "New File Category"
+msgstr "Nuova categoria file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:449
+msgctxt "pffw_private_file_category"
+msgid "Separate file categories with commas"
+msgstr "Separate file categories with commas"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:451
+msgctxt "pffw_private_file_category"
+msgid "Add or remove file categories"
+msgstr "Aggiungi o rimuovi categoria file"
+
+#: ../includes/core-addons/private-file/private-file-addon.class.php:452
+msgctxt "pffw_private_file_category"
+msgid "Choose from the most used file categories"
+msgstr "Choose from the most used file categories"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:66
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:67
+msgid "New Private File"
+msgstr "Nuovo File Privato"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:73
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:74
+msgid "Private File Categories"
+msgstr "Categoria File Privati"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:94
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:161
+msgid "Owner"
+msgstr "Cliente"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:110
+msgid "Nobody"
+msgstr "Nessuna Attribuzione"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:154
+msgid "File"
+msgstr "File"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:181
+msgid "Current file:"
+msgstr "File attuale:"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:189
+msgid "Upload a file"
+msgstr "Carica un file"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:210
+msgid "Select the owner of this file"
+msgstr "Seleziona il cliente per attribuire questo file"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:332
+#, php-format
+msgid "This file type is not allowed. You can only upload: %s"
+msgstr "This file type is not allowed. You can only upload: %s"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:356
+msgid "An unknown error happened while uploading your file."
+msgstr "An unknown error happened while uploading your file."
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:360
+#, php-format
+msgid "An error happened while uploading your file: %s"
+msgstr "An error happened while uploading your file: %s"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:406
+msgid "Customer Files"
+msgstr "Customer Files"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:427
+msgid "Show after post"
+msgstr "Visualizza dopo il post"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:440
+msgid "File list"
+msgstr "Lista File"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:447
+msgid "Don't group files"
+msgstr "Non raggruppare per anno"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:448
+msgid "Group by year"
+msgstr "Raggruppa per anno"
+
+#: ../includes/core-addons/private-file/private-file-admin-interface.class.php:449
+msgid "Group by category"
+msgstr "Raggruppa per categoria"
+
+#: ../includes/core-addons/private-file/templates/private-file-after_post_content.template.php:2
+msgid "Associated file"
+msgstr "File associato"
+
+#: ../includes/core-addons/private-file/templates/private-file-after_post_content.template.php:11
+#: ../includes/core-addons/private-file/templates/private-file-after_post_content.template.php:12
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item-plain.template.php:10
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item-plain.template.php:11
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item.template.php:6
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item.template.php:7
+msgid "View"
+msgstr "Vedi"
+
+#: ../includes/core-addons/private-file/templates/private-file-after_post_content.template.php:15
+#: ../includes/core-addons/private-file/templates/private-file-after_post_content.template.php:16
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item-plain.template.php:14
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item-plain.template.php:15
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item.template.php:10
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item.template.php:11
+msgid "Download"
+msgstr "Scarica"
+
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_no_user_files.template.php:1
+msgid "You currently have no files."
+msgstr "Non ci sono file da scaricare."
+
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-category.template.php:3
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-plain.template.php:3
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-year.template.php:3
+msgid "Your files"
+msgstr "I tuoi file privati"
+
+#: ../includes/core-addons/private-page/templates/private-page-customer_area_user_pages.template.php:3
+msgid "Your pages"
+msgstr "Le tue pagine private"
+
+#: ../includes/core-addons/private-page/templates/private-page-customer_area_no_user_pages.template.php:1
+msgid "You currently have no pages."
+msgstr "Non ci sono pagine da visualizzare"
+
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-category.template.php:43
+msgid "Clic to show the files in this category"
+msgstr "Clicca per visualizzare i file in questa categoria"
+
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-category.template.php:58
+msgid "No files in this category"
+msgstr "Non ci sono file in questa categoria"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:155
+msgctxt "pffw_private_page"
+msgid "Private Page"
+msgstr "Pagina Privata"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:156
+msgctxt "pffw_private_page"
+msgid "Add new"
+msgstr "Aggiungi nuova"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:157
+msgctxt "pffw_private_page"
+msgid "Add New Private Page"
+msgstr "Aggiungi Nuova Pagina Privata"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:158
+msgctxt "pffw_private_page"
+msgid "Edit Private Page"
+msgstr "Modifica Pagina Privata"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:159
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:147
+msgid "New Private Page"
+msgstr "Nuova Pagina Privata"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:160
+msgctxt "pffw_private_page"
+msgid "View Private Page"
+msgstr "Vedi Pagina Privata"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:161
+msgctxt "pffw_private_page"
+msgid "Search Private Pages"
+msgstr "Cerca Pagina Privata"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:162
+msgctxt "pffw_private_page"
+msgid "No private pages found"
+msgstr "Non ci sono pagine private trovate"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:163
+msgctxt "pffw_private_page"
+msgid "No private pages found in Trash"
+msgstr "Non ci sono pagine private trovate nel cestino"
+
+#: ../includes/core-addons/private-page/private-page-addon.class.php:164
+msgctxt "pffw_private_page"
+msgid "Parent Private Page:"
+msgstr "Pagine Private parenti:"
+
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:329
+msgid "Select the owner of this page"
+msgstr "Seleziona il cliente per attribuire questa pagina"
+
+#: ../includes/core-addons/private-page/private-page-admin-interface.class.php:329
+msgid "test"
+msgstr "Seleziona il cliente per attribuire questa pagina"
+
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-year.template.php:45
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_files-year.template.php:54
+#, php-format
+msgid "Clic to show the files published in %s"
+msgstr "Clicca per visualizzare i file pubblicati in %s"
+
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item-plain.template.php:2
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item-plain.template.php:6
+#: ../includes/core-addons/private-file/templates/private-file-customer_area_user_file_item.template.php:2
+#, php-format
+msgid "Added on %s"
+msgstr "Aggiunto il %s"
+
+#~ msgctxt "pffw_private_file"
+#~ msgid "Customer Files"
+#~ msgstr "File dei clienti"
